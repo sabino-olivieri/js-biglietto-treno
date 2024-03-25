@@ -9,14 +9,14 @@ va applicato uno sconto del 40% per gli over 65.
 
 ## Svolgimento
 1. Raccolta dati
-    - [ ] Chiedere a utente quanti km deve percorrere
-    - [ ] Chiedere a utente la sua età
+    - [x] Chiedere a utente quanti km deve percorrere
+    - [x] Chiedere a utente la sua età
 
 2. Esecuzione logica
-    - [ ] creare variabile prezzo al biglietto in base ai km
-        - se minorenne 20%
-        - se over 65 40%
-    - [ ] applicare sconto in base all'età
+    - [x] creare variabile kmPrice in base ai km
+    - [x] applicare sconto in base all'età
+            - se minorenne 20%
+            - se over 65 40%
 
 3. Output
-    - [ ] stampa del prezzo totale del biglietto
+    - [x] stampa del prezzo totale del biglietto
